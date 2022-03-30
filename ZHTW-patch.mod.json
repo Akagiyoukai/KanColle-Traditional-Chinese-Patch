@@ -1,6 +1,6 @@
 {
   "name": "艦隊收藏中文化",
-  "version": "3.14.1",
-  "authors": ["Inochi-PM, Oradimi, Tibo", "Ivon852"],
+  "version": "3.0.0-dev",
+  "authors": ["Inochi-PM", "Oradimi", "Tibo", "Ivon852"],
   "requireScripts": true
 }
